@@ -45,10 +45,10 @@ This project analyzes the historical performance of five Indian stocks from diff
 <table>
   <tr>
     <td>
-      <img src="(https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG)" width="450"/>
+      <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG?raw=true" width="450"/>
     </td>
     <td>
-      <img src="(https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG)" width="450"/>
+      <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG?raw=true" width="450"/>
     </td>
   </tr>
 </table>
