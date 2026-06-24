@@ -37,7 +37,10 @@ This project analyzes the historical performance of five Indian stocks from diff
 - Despite allocating more capital to lower-risk stocks, the Conservative Portfolio returned only 6.09% with a volatility of 14.44%, offering no significant risk reduction compared to the Equal Weight Portfolio.
 
 ## Visualizations
-<img width="1000" height="900" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG" />
+<img width="800" height="700" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG" />
+<img width="400" height="300" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG" />
+<img width="400" height="300" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Correlation%20Snapshot.PNG" />
+<img width="600" height="500" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Portfolio%20Strategies%20Snapshot.PNG" />
 
 ## Portfolio Strategies
 
