@@ -38,23 +38,13 @@ This project analyzes the historical performance of five Indian stocks from diff
 
 ## Visualizations
 <img width="800" height="700" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG" />
-<img width="600" height="500" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Portfolio%20Strategies%20Snapshot.PNG" />
 
 <p align="center">
-  <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG" width="48%">
+  <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG" width="55%">
   <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Correlation%20Snapshot.PNG" width="48%">
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Risk%20vs%20Return%20Snapshot.PNG?raw=true" width="700" />
-    </td>
-    <td>
-      <img src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Correlation%20Snapshot.PNG?raw=true" width="700" />
-    </td>
-  </tr>
-</table>
+<img width="600" height="500" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Portfolio%20Strategies%20Snapshot.PNG" />
 
 ## Portfolio Strategies
 
