@@ -26,6 +26,18 @@ This project analyzes the historical performance of five Indian stocks from diff
 - Maruti Suzuki (Automobile)
 - Reliance Industries (Energy, Retail & Telecom)
 
+## Key Findings
+
+- A ₹100 investment in Maruti grew to approximately ₹178, making it the best-performing stock among the selected companies.
+- Maruti achieved the highest total return of 78.07%, while HINDUNILVR recorded a negative return of -1.92%.
+- Infosys exhibited the highest annualized volatility (24.66%), whereas HINDUNILVR showed the lowest volatility (20.36%).
+- Correlation values ranged from approximately 0.18 to 0.37, indicating low to moderate relationships between stocks and supporting diversification benefits.
+- The Growth Portfolio generated the highest annual return of 9.99% with a volatility of 16.54%.
+- The Equal Weight Portfolio achieved a return of 6.66% while maintaining the lowest volatility of 14.41%.
+- Despite allocating more capital to lower-risk stocks, the Conservative Portfolio returned only 6.09% with a volatility of 14.44%, offering no significant risk reduction compared to the Equal Weight Portfolio.
+
+## Visualizations
+<img width="1000" height="900" src="https://github.com/Mann0405/Stock-Performance-and-Portfolio-Analysis-using-Python/blob/main/Normalized%20Stock%20Performance%20Snapshot.PNG" />
 
 ## Portfolio Strategies
 
@@ -46,15 +58,6 @@ This project analyzes the historical performance of five Indian stocks from diff
 - Maruti: 15%
 - Infosys: 10%
 
-## Key Findings
-
-- A ₹100 investment in Maruti grew to approximately ₹178, making it the best-performing stock among the selected companies.
-- Maruti achieved the highest total return of 78.07%, while HINDUNILVR recorded a negative return of -1.92%.
-- Infosys exhibited the highest annualized volatility (24.66%), whereas HINDUNILVR showed the lowest volatility (20.36%).
-- Correlation values ranged from approximately 0.18 to 0.37, indicating low to moderate relationships between stocks and supporting diversification benefits.
-- The Growth Portfolio generated the highest annual return of 9.99% with a volatility of 16.54%.
-- The Equal Weight Portfolio achieved a return of 6.66% while maintaining the lowest volatility of 14.41%.
-- Despite allocating more capital to lower-risk stocks, the Conservative Portfolio returned only 6.09% with a volatility of 14.44%, offering no significant risk reduction compared to the Equal Weight Portfolio.
 
 ## Insights
 
